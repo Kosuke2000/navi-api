@@ -25,12 +25,7 @@ addEventListener("fetch", (event) => {
       id: "0",
       name: "kunimi",
       party: [
-        "steelix",
-        "salamander",
-        "heatran",
-        "coil",
-        "electabuzz",
-        "roserade",
+        // TODO: 自分のpartyに手持ちポケモンを入れてください。
       ],
     },
     {
@@ -49,24 +44,14 @@ addEventListener("fetch", (event) => {
       id: "0",
       name: "hirama",
       party: [
-        "steelix",
-        "salamander",
-        "heatran",
-        "coil",
-        "electabuzz",
-        "roserade",
+        // TODO: 自分のpartyに手持ちポケモンを入れてください。
       ],
     },
     {
       id: "0",
       name: "hoi",
       party: [
-        "steelix",
-        "salamander",
-        "heatran",
-        "coil",
-        "electabuzz",
-        "roserade",
+        // TODO: 自分のpartyに手持ちポケモンを入れてください。
       ],
     },
   ];
