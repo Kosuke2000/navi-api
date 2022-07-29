@@ -51,12 +51,12 @@ addEventListener("fetch", (event) => {
       id: "0",
       name: "hoi",
       party: [
-        "Torterra",
-        "Staraptor",
-        "Chandelure",
-        "Tyranitar",
-        "Charizard",
-        "Vikavolt",
+        "torterra",
+        "staraptor",
+        "chandelure",
+        "tyranitar",
+        "charizard",
+        "vikavolt",
       ],
     },
   ];
