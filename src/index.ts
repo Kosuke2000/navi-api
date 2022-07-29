@@ -51,7 +51,12 @@ addEventListener("fetch", (event) => {
       id: "0",
       name: "hoi",
       party: [
-        // TODO: 自分のpartyに手持ちポケモンを入れてください。
+        "Torterra",
+        "Staraptor",
+        "Chandelure",
+        "Tyranitar",
+        "Charizard",
+        "Vikavolt",
       ],
     },
   ];
