@@ -47,7 +47,7 @@ addEventListener("fetch", (event) => {
         "Dragonite",
         "Cleffa",
         "Ninjask",
-        "Altaria",
+        "Infernape",
         "Deoxys",
         "Palkia",
       ],
