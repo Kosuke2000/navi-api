@@ -44,12 +44,12 @@ addEventListener("fetch", (event) => {
       id: "0",
       name: "hirama",
       party: [
-        "Dragonite",
-        "Cleffa",
-        "Ninjask",
-        "Infernape",
-        "Deoxys",
-        "Palkia",
+        "dragonite",
+        "cleffa",
+        "ninjask",
+        "infernape",
+        "deoxys",
+        "palkia",
       ],
     },
     {
