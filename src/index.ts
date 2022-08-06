@@ -26,7 +26,7 @@ addEventListener("fetch", (event) => {
       name: "kunimi",
       party: [
         "shaymin",
-        "Pachirisu",
+        "pachirisu",
         "darkrai",
         "garchomp",
         "torterra",
