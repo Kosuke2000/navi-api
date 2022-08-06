@@ -49,7 +49,12 @@ addEventListener("fetch", (event) => {
       id: "0",
       name: "hirama",
       party: [
-        // TODO: 自分のpartyに手持ちポケモンを入れてください。
+        "dragonite",
+        "cleffa",
+        "ninjask",
+        "infernape",
+        "deoxys",
+        "palkia",
       ],
     },
     {
