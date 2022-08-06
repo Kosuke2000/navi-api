@@ -25,7 +25,12 @@ addEventListener("fetch", (event) => {
       id: "0",
       name: "kunimi",
       party: [
-        // TODO: 自分のpartyに手持ちポケモンを入れてください。
+        "shaymin",
+        "pachirisu",
+        "darkrai",
+        "garchomp",
+        "torterra",
+        "pichu",
       ],
     },
     {
